@@ -89,6 +89,10 @@ A full-featured web Learning Management System (LMS) built with **Laravel**, **T
 Make sure you have PHP, Composer, Node.js, and SQLite installed.
 
 ```bash
+
+cd LMS-System
+then ... 
+
 # 📦 Backend Setup
 composer install
 

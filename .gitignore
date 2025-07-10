@@ -1,30 +1,29 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+# Ignore Laravel and Node dependencies
+LMS-System/vendor/
+LMS-System/node_modules/
+LMS-System/public/storage
+LMS-System/public/hot
+LMS-System/public_html/storage
+LMS-System/public_html/hot
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+# Ignore Laravel environment/config/secrets
+LMS-System/.env
+LMS-System/.env.*
+LMS-System/storage/*.key
+LMS-System/storage/pail
+LMS-System/.phpunit.result.cache
+LMS-System/Homestead.*
+LMS-System/.vagrant
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
+# Misc tools
+LMS-System/.phpactor.json
+LMS-System/auth.json
+LMS-System/npm-debug.log
+LMS-System/yarn-error.log
 
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+# Optional builds
+LMS-System/public/build
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
-
-/public/build
-/storage/pail
-.env.backup
-.env.production
-.phpactor.json
-auth.json
+# Laravel 4 legacy (just in case)
+LMS-System/bootstrap/compiled.php
+LMS-System/app/storage/
