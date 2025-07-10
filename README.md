@@ -6,6 +6,20 @@ A full-featured web Learning Management System (LMS) built with **Laravel**, **T
 
 ## 📸 Screenshots
 
+### 🔐 Auth Pages
+- Landing Page  
+  ![Landing](./assets/common/landing.jpeg)
+- Login  
+  ![Login](./assets/common/login.jpeg)
+- Signup  
+  ![Signup](./assets/common/signup.jpeg)
+- Forgot Password  
+  ![Forgot Password](./assets/common/forgot-password.jpeg)
+
+  ### 🔐 Profile
+- Profile Page  
+  ![Profile](./assets/common/edit-profile.jpeg)
+
 ### 🧑‍🏫 Teacher View
 - Dashboard  
   ![Teacher Dashboard](./assets/teacher/teacher-dashboard.jpeg)
@@ -34,19 +48,6 @@ A full-featured web Learning Management System (LMS) built with **Laravel**, **T
 - View Grade  
   ![Graded Task](./assets/student/student-task-grade.jpeg)
 
-### 🔐 Auth Pages
-- Landing Page  
-  ![Landing](./assets/common/landing.jpeg)
-- Login  
-  ![Login](./assets/common/login.jpeg)
-- Signup  
-  ![Signup](./assets/common/signup.jpeg)
-- Forgot Password  
-  ![Forgot Password](./assets/common/forgot-password.jpeg)
-
-  ### 🔐 Profile
-- Profile Page  
-  ![Profile](./assets/common/edit-profile.jpeg)
 
 ### 📞 Contact Page
 - Contact  
